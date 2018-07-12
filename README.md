@@ -1,5 +1,5 @@
 # API Tests for JSONPlaceholder fake data routes
-This project is created to add smaples of rest api testing using demo apis. 
+This project is created to add samples of rest api testing using demo apis. 
 
 This project is using chakram. The link to chakram: http://dareid.github.io/chakram/   
 

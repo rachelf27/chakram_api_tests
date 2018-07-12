@@ -2,14 +2,13 @@
   "name": "chakram_api_testing ",
   "version": "1.0.0",
   "description": "A framework to do API testing in BDD style.",
-  "main": "lib/chakram.js",
+  "main": "demo_users_api_tests.js",
   "license": "ISC",
   "author": "Rachel Fernando",
   "email": "rachelfernando27@gmail.com",
-  "url": "",
   "repository": {
     "type": "git",
-    "url": " "
+    "url": "https://github.com/rachelf27/chakram_api_tests"
   },
   "keywords": [
     "test",
